@@ -1,0 +1,48 @@
+
+.form-container {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+.form-title {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.form-select {
+  margin-left: 10px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.form-button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+  background-color: #59e076;
+  color: white;
+  cursor: pointer;
+}
+
+.form-button:hover {
+  background-color: #59c247;
+}
+
+.form-list {
+  margin-top: 20px;
+  padding-left: 20px;
+}
+
+.form-item {
+  margin-bottom: 8px;
+}
