@@ -1,7 +1,6 @@
-// app/builder/page.tsx
-import React from 'react';
-import Navbar from './components/Navbar';
-import FormBuilder from './components/FormBuilder';
+import React from "react";
+import Navbar from "../components/Navbar";
+import FormBuilder from "../components/FormBuilder";
 
 export default function BuilderPage() {
   return (
